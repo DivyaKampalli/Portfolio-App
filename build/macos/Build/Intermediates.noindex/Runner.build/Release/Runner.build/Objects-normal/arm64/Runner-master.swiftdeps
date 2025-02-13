@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "9b2eefb98c95d73ffd29e45a1a3dbdb65e7f327a3236ee4eb7bf2e287a55ae90"
+build_start_time: [1739430296, 825114000]
+build_end_time: [1739430298, 458461000]
+inputs:
+  ? "/Users/divyakampalli/Desktop/MAD/Portfolio-App/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1739430235, 719174050]
+  "/Users/divyakampalli/Desktop/MAD/Portfolio-App/macos/Flutter/GeneratedPluginRegistrant.swift": [1739430284, 690846435]
+  "/Users/divyakampalli/Desktop/MAD/Portfolio-App/macos/Runner/AppDelegate.swift": [1739427089, 265648127]
+  "/Users/divyakampalli/Desktop/MAD/Portfolio-App/macos/Runner/MainFlutterWindow.swift": [1716164939, 0]
